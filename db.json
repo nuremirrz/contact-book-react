@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "title": "tornado",
+      "price": "120000",
+      "photo": "https://w-dog.ru/wallpapers/2/90/443240945941907/nebraska-oblaka-groza-molniya-pole-shtorm-ssha.jpg",
+      "description": "tornado",
+      "id": 1
+    },
+    {
+      "title": "Oslo",
+      "price": "10000",
+      "photo": "https://maps.spravka-region.ru/img/382/2099812184415868.jpg",
+      "description": "city",
+      "id": 2
+    },
+    {
+      "title": "Woman",
+      "price": "1",
+      "photo": "https://yobte.ru/uploads/posts/2019-11/milye-devushki-v-platjah-84-foto-61.jpg",
+      "description": "Girl",
+      "id": 3
+    },
+    {
+      "title": "dom",
+      "price": "12300000",
+      "photo": "https://home-exp.com/wp-content/uploads/7a339cfef8451733ac86b5fef5fc81efb269f8ab.jpg",
+      "description": "house",
+      "id": 4
+    }
+  ]
+}
